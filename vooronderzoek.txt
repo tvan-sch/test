@@ -1,0 +1,17 @@
+Gebruik main.py om de volgende vragen te beantwoorden
+
+1. Hoe lang doen de functions brute_force en library_priority_queue er over wanneer sim_length de waarde 1000 heeft:
+Library Priority Queue:
+Brute Force:
+
+2. En wanneer sim_length de waarde 10.000 heeft:
+Library Priority Queue:
+Brute Force:
+
+3. En bij 100.000:
+Library Priority Queue:
+Brute Force:
+
+4. Wat gebeurt er als we sim_length 1.000.000 maken?
+
+5. Kan je iets zeggen over de big-O complexiteit van het probleem met een lijst ten op zichte van een priority queue?

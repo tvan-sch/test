@@ -1,0 +1,14 @@
+name: S2-AI
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=23.2.*
+  - python=3.12.*
+  - pip:
+      - matplotlib==3.8.*
+      - numpy==1.26.*
+      - pytest==7.4.*
+      - psycopg2==2.9.*
+      - requests==2.31.*

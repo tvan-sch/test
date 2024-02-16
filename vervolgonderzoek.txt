@@ -1,0 +1,41 @@
+Gebruik main.py om de volgende vragen te beantwoorden
+
+1. Kijk onderaan main.py en uncomment de regels waar jouw eigen implementatie van priority queue gebruikt gaat worden in de simulatie
+
+2. Draai net als in je vooronderzoek met een sim_length van 1000, 10.000 en 100.000 en houdt voor elk bij
+1.000
+Library Priority Queue:
+Student Priority Queue:
+Brute Force:
+
+10.000
+Library Priority Queue:
+Student Priority Queue:
+Brute Force:
+
+100.000
+Library Priority Queue:
+Student Priority Queue:
+Brute Force:
+
+3. Wat valt je op aan de verhoudingen tussen de verschillende implementaties?
+3a. Vanaf wanneer wordt jouw implementatie sneller dan de list implementatie
+3b. Hoe verklaar je het antwoord op 3a
+3c. Heeft jouw implementatie van priority queue dezelfde Big-O complexity als de library implementatie?
+
+4. Comment de brute force methode en draai nu met een sim_length van 1.000.000 en 10.000.000, dit kan wel even duren.
+1.000.000 (duurt al snel meerdere minuten)
+Library Priority Queue:
+Student Priority Queue:
+
+10.000.000 (duurt al snel 20 minuten)
+Library Priority Queue:
+Student Priority Queue:
+
+5. Probeer te verklaren waarom jouw implementatie van Priority Queue langzamer is:
+5a. Probeer elke operator apart te timen in de library_priority_queue() en student_priority_queue(), let met name op insert(), push() en pop(), wat zie je?
+5b. Wat kan je vinden op het internet
+5c. Wat is je conclusie?
+
+6. Extra: Probeer een significante slag te maken in de efficiency van je implementatie van priority_queue, verklaar wat je hebt veranderd
+7. Extra: Als het je lukt om jouw implementatie minder dan 1.7x zo langzaam te maken kom dan langs bij de docent want dat is een indrukwekkende prestatie
